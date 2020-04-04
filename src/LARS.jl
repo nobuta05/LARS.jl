@@ -1,5 +1,5 @@
 module LARS
 
-greet() = print("Hello World!")
+using LinearAlgebra, StatsBase
 
 end # module
