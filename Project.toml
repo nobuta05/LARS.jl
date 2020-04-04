@@ -1,0 +1,13 @@
+name = "LARS"
+uuid = "8bdb1b33-0619-4043-afce-93e230ccbed4"
+authors = ["nobuta05 <nobuta05@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
